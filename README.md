@@ -27,3 +27,8 @@ npm run server
 ```
 npm run build
 ```
+Here’s the first look:
+
+Ans this is how it looks when we want to Add a task:
+
+
